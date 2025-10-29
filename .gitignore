@@ -84,6 +84,7 @@ Archive/
 *.hintrc
 PINMAP.txt
 Infos.txt
+changes.txt
 partitions.csv
 backup/
 Display/HMI/

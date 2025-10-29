@@ -1,5 +1,6 @@
 {
   "version": "1.58.5",
-  "release_date": "2025-29-10",
-  "notes": "new: ESPAsyncWebserver 3.8"
+  "release_date": "2025-10-29",
+  "notes": "Migration to ESPAsyncWebserver 3.8.1",
+  "type": "Release"
 }
