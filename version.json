@@ -1,6 +1,6 @@
 {
   "version": "1.59.01",
   "release_date": "2025-10-31",
-  "type": "Release",
-  "custom_notes": "BETA ESPAsyncWebserver 3.8.1"
+  "type": "beta",
+  "notes": "ESPAsyncWebserver 3.8.1"
 }
