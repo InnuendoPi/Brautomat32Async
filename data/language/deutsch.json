@@ -452,5 +452,13 @@
     "FERMSTEP_RAMP": "Ramp",
     "FERMSTEP_DURATION": "Step Dauer",
     "FERMENTER_MODE": "Fermenter Modus",
-    "MASH_MODE": "MaischSud Modus"
+    "MASH_MODE": "MaischSud Modus",
+    "MISC_DASH_KETTLECARD": "Kessel-Card anzeigen",
+    "MISC_DASH_KETTLECARD_TT": "Zeigt oder versteckt die Kessel-Karte im Dashboard",
+    "MISC_DASH_ACTCARD": "Aktoren-Card anzeigen",
+    "MISC_DASH_ACTCARD_TT": "Zeigt oder versteckt die Aktoren-Karte im Dashboard",
+    "MISC_DASH_SENCARD": "Sensoren-Card anzeigen",
+    "MISC_DASH_SENCARD_TT": "Zeigt oder versteckt die Sensoren-Karte im Dashboard",
+    "TAB_MAISCHE_NEXTRAST": "Nächste Rast:",
+    "CARD_KETTLE_NAME": "Kessel"
 }

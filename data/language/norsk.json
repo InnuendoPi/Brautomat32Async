@@ -452,5 +452,13 @@
     "FERMSTEP_RAMP": "Ramp",
     "FERMSTEP_DURATION": "Stegvarighet",
     "FERMENTER_MODE": "Gjæringsmodus",
-    "MASH_MODE": "Meske-modus"
+    "MASH_MODE": "Meske-modus",
+    "MISC_DASH_KETTLECARD": "dashboard kettle card",
+    "MISC_DASH_KETTLECARD_TT": "show or hide kettle card in dashboard",
+    "MISC_DASH_ACTCARD": "dashboard actors card",
+    "MISC_DASH_ACTCARD_TT": "show or hide actors card in dashboard",
+    "MISC_DASH_SENCARD": "dashboard sensors card",
+    "MISC_DASH_SENCARD_TT": "show or hide sensors card in dashboard",
+    "TAB_MAISCHE_NEXTRAST": "Next rest:",
+    "CARD_KETTLE_NAME": "kettles"
 }
