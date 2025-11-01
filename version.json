@@ -1,6 +1,6 @@
 {
-  "version": "1.59.01",
-  "release_date": "2025-10-31",
+  "version": "1.59.05",
+  "release_date": "2025-11-01",
   "type": "beta",
-  "notes": "ESPAsyncWebserver 3.8.1"
+  "notes": "new Dashboard, ESPAsyncWebserver"
 }

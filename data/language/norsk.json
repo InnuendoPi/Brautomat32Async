@@ -114,7 +114,7 @@
     "MISC_DASH_HLT": "HLT Varmtvannskjele",
     "MISC_DASH_ACT": "Aktører",
     "MISC_DASH_SEN": "Sensorer",
-    "MISC_DASH_CHART": "Diagram",
+    "MISC_DASH_CHART": "vis dashbordet",
     "MISC_DASH_MAN": "Manuell modus",
     "MISC_DASH_FERM": "Gjæringstank",
     "MISC_DASH_LIST": ["Meskeplan", "Gjæringstank"],
