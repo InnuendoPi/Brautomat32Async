@@ -460,5 +460,10 @@
     "MISC_DASH_SENCARD": "dashboard sensors card",
     "MISC_DASH_SENCARD_TT": "show or hide sensors card in dashboard",
     "TAB_MAISCHE_NEXTRAST": "Next rest:",
-    "CARD_KETTLE_NAME": "kettles"
+    "CARD_KETTLE_NAME": "kettles",
+    "TOAST_ACTERR_ID": "invalid actor ID",
+    "TOAST_ACTERR_GPIO": "invalid actor GPIO or webhook URL",
+    "TOAST_IDSERR_ID": "invalid kettle ID",
+    "TOAST_IDSERR_GPIO": "invalid kessel GPIO or webhook URL",
+    "TOAST_IDSERR_PID": "invalid kettle PID configuration"
 }

@@ -460,5 +460,10 @@
     "MISC_DASH_SENCARD": "Sensoren-Card anzeigen",
     "MISC_DASH_SENCARD_TT": "Zeigt oder versteckt die Sensoren-Karte im Dashboard",
     "TAB_MAISCHE_NEXTRAST": "Nächste Rast:",
-    "CARD_KETTLE_NAME": "Kessel"
+    "CARD_KETTLE_NAME": "Kessel",
+    "TOAST_ACTERR_ID": "Aktor ID ungültig",
+    "TOAST_ACTERR_GPIO": "Aktor GPIO oder webhook URL ungültig",
+    "TOAST_IDSERR_ID": "Kessel ID ungültig",
+    "TOAST_IDSERR_GPIO": "Kessel GPIO oder webhook URL ungültig",
+    "TOAST_IDSERR_PID": "Kessel PID Konfiguration ungültig"
 }
