@@ -1,6 +1,6 @@
 {
   "version": "1.59.05",
-  "release_date": "2025-11-06",
+  "release_date": "2025-11-07",
   "type": "beta",
   "notes": "new Dashboard, ESPAsyncWebserver"
 }
